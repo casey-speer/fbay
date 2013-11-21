@@ -26,7 +26,7 @@ Clone the repo and then from within the gem directory,
 
 To run the tests and verify requirements, from within the gem directory:
 
-`bundle exec rspec spec/fbay_spec.rb
+`bundle exec rspec spec/fbay_spec.rb`
 
 To manually play with the gem through irb, from within gem directory:
 
